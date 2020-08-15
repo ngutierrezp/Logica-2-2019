@@ -2,5 +2,5 @@
 
 ## Listado de laboratorios
 
-- Laboratorio 1 : [Prolog](Lab 1)
+- Laboratorio 1 : [Prolog](Lab1)
 - Laboratorio 2 : [Python](Lab2)
